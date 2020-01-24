@@ -1,0 +1,2 @@
+# SonarCloudTraining
+Figuring stuff out
